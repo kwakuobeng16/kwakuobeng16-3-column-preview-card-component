@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/kwakuobeng16/kwakuobeng16-3-column-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://kwakuobeng16.github.io/3-column-preview-card-component/)
+- Live Site URL: [Add live site URL here](https://kwakuobeng16.github.io/kwakuobeng16-3-column-preview-card-component/)
 
 ## My process
 
